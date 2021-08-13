@@ -1,0 +1,61 @@
+* {
+    /* Normal Colours */
+    --red: #dd2255;
+    --orange: #dd9922;
+    --yellow: #ffdd55;
+    --green: #22dd55;
+    --blue: #2255dd;
+    --purple: #8822dd;
+    --pink: #ee55bb;
+    --brown: #aa7722;
+    --white: #ffffff;
+  
+    /* Superlight Colours */
+    --superlightRed: #ff8bbe;
+    --superlightOrange: #fffd86;
+    --superlightYellow: #ffffb9;
+    --superlightGreen: #86ffb9;
+    --superlightBlue: #86b9ff;
+    --superlightPurple: #ec86ff;
+    --superlightPink: #ffb9ff;
+    --superlightBrown: #ffdb86;
+  
+    /* Light Colours */
+    --lightRed: #cd598c;
+    --lightOrange: #cdcb54;
+    --lightYellow: #cdcd87;
+    --lightGreen: #54cd87;
+    --lightBlue: #5487cd;
+    --lightPurple: #ba54cd;
+    --lightPink: #cd87cd;
+    --lightBrown: #cda954;
+  
+    /* Dark Colours */
+    --darkRed: #ab3232;
+    --darkOrange: #bf7b32;
+    --darkYellow: #cdab32;
+    --darkGreen: #32ab32;
+    --darkBlue: #3232ab;
+    --darkPurple: #5632ab;
+    --darkPink: #bc3289;
+    --darkBrown: #784532;
+  
+    /* Superdark Colours */
+    --superdarkRed: #790000;
+    --superdarkOrange: #8d4900;
+    --superdarkYellow: #9b7900;
+    --superdarkGreen: #007900;
+    --superdarkBlue: #000079;
+    --superdarkPurple: #240079;
+    --superdarkPink: #8a0057;
+    --superdarkBrown: #461300;
+  
+    /* Greyscale */
+    --superlightGrey: #f5f5f5;
+    --lightGrey: #d7d7d7;
+    --grey: #afafaf;
+    --darkGrey: #696969;
+    --superdarkGrey: #414141;
+    --pitchGrey: #161616;
+  }
+  
